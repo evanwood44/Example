@@ -1,0 +1,16 @@
+#Description {
+	font-size: 20px;
+}
+
+body{
+	text-align: center;
+}
+a{
+	color: #d47169;
+	text-decoration: none;
+	background-color: #000;
+	padding: 1em;
+}
+a:hover {
+	opacity: 0.5;
+}
